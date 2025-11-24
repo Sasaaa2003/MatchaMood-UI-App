@@ -1,16 +1,57 @@
-# matchamood
+# MatchaMood — Aplikasi Menu Matcha Berbasis Flutter
 
-A new Flutter project.
+MatchUrr adalah aplikasi mobile berbasis Flutter yang dirancang untuk menampilkan daftar menu minuman dan makanan berbahan dasar matcha. Aplikasi ini menghadirkan antarmuka modern, interaktif, serta responsif, dengan pengalaman pengguna yang sederhana dan mudah digunakan.
 
-## Getting Started
+---
+Anggota Kelompok :
+- Anisa Tri Zaskia (232101077)
+- Delia Andreyani (232101060)
+- SifaMia Juniarti (232101076)
+---
 
-This project is a starting point for a Flutter application.
+## 1. Fitur Utama
+- **Profil & Sapaan Pengguna**  
+  Menampilkan foto pengguna dan ucapan selamat datang.
 
-A few resources to get you started if this is your first Flutter project:
+- **Pencarian Menu**  
+  Search bar untuk mencari item secara cepat.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Kategori Menu**  
+  Filter: Latte, Dessert, Ice Cream, All.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Menu Card Animasi**  
+  Gambar produk bergerak halus menggunakan `AnimationController`.
+
+- **Icon Favorite**  
+  Pengguna dapat menandai produk.
+
+- **Bottom Navigation**  
+  Navigasi sederhana: Home, Menu, Favorite, Notif.
+
+  
+
+---
+
+## 2. Screenshot Aplikasi
+
+**Contoh tampilan aplikasi:**  
+![potrait](assets/sc1.png)  
+![landscape](assets/sc2.png)
+
+---
+
+## 3. Dokumentasi Laporan
+Dokumentasi lengkap dalam bentuk PDF dan ScreenRecord dapat diakses pada tautan berikut:
+
+📄 **Google Drive:**  
+https://drive.google.com/drive/folders/1dRC2NMT1aq1IKJEzJ97vri9rM_-oeD18?usp=sharing
+
+---
+
+## 4. Teknologi yang Digunakan
+- Flutter 3.x  
+- Dart  
+- Riverpod (state management)  
+- Material UI + Custom Animations  
+
+
